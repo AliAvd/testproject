@@ -34,6 +34,7 @@ namespace CodeFirst2
                 );
             modelBuilder.Entity<MovieGenres>()
         .HasKey(mg => mg.Id);
+            //modelBuilder.Entity<Genre>().HasIndex(u => u.Name).IsUnique();
 
         }
 

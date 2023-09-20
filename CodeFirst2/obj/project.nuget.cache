@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oR6cChn7DmRDJh3yWuoPoUI54ES5b1tYFdGlkMfv2yc9DfgMCBsIz//6VtMVEkkjM/bzuA+w1X7ziXD4w9VK+g==",
+  "dgSpecHash": "XKuNpwr5zL8E2kOoSZGkT57YZcTGaKXIIgXTu1W7ufleZ00/0lj9n5K0cR3xZX3feaPrmJs8qc0yM5Yo1q+01w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Academy 9\\Desktop\\Ali C#\\CodeFirst2\\CodeFirst2\\CodeFirst2.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,9 @@
     "C:\\Users\\Academy 9\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Academy 9\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Academy 9\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Academy 9\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512",
+    "C:\\Users\\Academy 9\\.nuget\\packages\\nlog.extensions.logging\\5.3.4\\nlog.extensions.logging.5.3.4.nupkg.sha512",
+    "C:\\Users\\Academy 9\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.4\\nlog.web.aspnetcore.5.3.4.nupkg.sha512",
     "C:\\Users\\Academy 9\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Academy 9\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Academy 9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

@@ -1,0 +1,937 @@
+2023-09-20 09:17:31.1292 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:17:31.1530 TRACE Request Headers:
+
+2023-09-20 09:17:31.1599 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:17:31.1599 TRACE Request Headers:
+
+2023-09-20 09:17:31.7512 INFO Received HTTP response headers after 587.2971ms - 200
+2023-09-20 09:17:31.7512 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 05:47:30 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:17:31.7512 INFO End processing HTTP request after 629.1587ms - 200
+2023-09-20 09:17:31.7512 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 05:47:30 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:21:44.4399 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:21:44.4661 TRACE Request Headers:
+
+2023-09-20 09:21:44.4742 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:21:44.4742 TRACE Request Headers:
+
+2023-09-20 09:21:44.8117 INFO Received HTTP response headers after 333.3678ms - 200
+2023-09-20 09:21:44.8159 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 05:51:43 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:21:44.8159 INFO End processing HTTP request after 377.1329ms - 200
+2023-09-20 09:21:44.8159 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 05:51:43 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:22:14.3953 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:22:14.4116 TRACE Request Headers:
+
+2023-09-20 09:22:14.4116 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:22:14.4116 TRACE Request Headers:
+
+2023-09-20 09:22:14.7806 INFO Received HTTP response headers after 356.0102ms - 200
+2023-09-20 09:22:14.7849 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 05:52:13 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:22:14.7849 INFO End processing HTTP request after 400.4498ms - 200
+2023-09-20 09:22:14.7849 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 05:52:13 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:31:28.9229 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:31:28.9531 TRACE Request Headers:
+
+2023-09-20 09:31:28.9531 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:31:28.9531 TRACE Request Headers:
+
+2023-09-20 09:31:29.2923 INFO Received HTTP response headers after 323.7797ms - 200
+2023-09-20 09:31:29.2923 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:01:27 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:31:29.3039 INFO End processing HTTP request after 377.612ms - 200
+2023-09-20 09:31:29.3039 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:01:27 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:35:01.3602 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:35:01.3853 TRACE Request Headers:
+
+2023-09-20 09:35:01.3919 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:35:01.3919 TRACE Request Headers:
+
+2023-09-20 09:35:01.7328 INFO Received HTTP response headers after 335.205ms - 200
+2023-09-20 09:35:01.7364 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:05:00 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:35:01.7364 INFO End processing HTTP request after 377.8773ms - 200
+2023-09-20 09:35:01.7364 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:05:00 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:39:29.5334 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:39:29.5498 TRACE Request Headers:
+
+2023-09-20 09:39:29.5498 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:39:29.5498 TRACE Request Headers:
+
+2023-09-20 09:39:29.9217 INFO Received HTTP response headers after 359.8248ms - 200
+2023-09-20 09:39:29.9217 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:09:28 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:39:29.9217 INFO End processing HTTP request after 403.4879ms - 200
+2023-09-20 09:39:29.9217 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:09:28 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:40:59.3617 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:40:59.3924 TRACE Request Headers:
+
+2023-09-20 09:40:59.3924 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:40:59.3924 TRACE Request Headers:
+
+2023-09-20 09:40:59.7666 INFO Received HTTP response headers after 361.4599ms - 200
+2023-09-20 09:40:59.7666 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:10:58 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:40:59.7666 INFO End processing HTTP request after 412.7173ms - 200
+2023-09-20 09:40:59.7666 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:10:58 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:41:25.2510 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:41:25.2732 TRACE Request Headers:
+
+2023-09-20 09:41:25.2809 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 09:41:25.2809 TRACE Request Headers:
+
+2023-09-20 09:41:25.6468 INFO Received HTTP response headers after 361.4666ms - 200
+2023-09-20 09:41:25.6468 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 06:11:24 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:41:25.6594 INFO End processing HTTP request after 405.3796ms - 200
+2023-09-20 09:41:25.6594 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 06:11:24 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 09:53:16.4847 INFO Requested Getting Genres !
+2023-09-20 09:53:18.4273 INFO Genres have been returned !
+2023-09-20 09:55:08.1106 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=Movie2
+2023-09-20 09:55:08.1106 TRACE Request Headers:
+
+2023-09-20 09:55:08.1106 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=Movie2
+2023-09-20 09:55:08.1106 TRACE Request Headers:
+
+2023-09-20 09:55:08.5031 INFO Received HTTP response headers after 373.3221ms - 200
+2023-09-20 09:55:08.5031 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:25:06 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 09:55:08.5031 INFO End processing HTTP request after 398.2966ms - 200
+2023-09-20 09:55:08.5031 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 06:25:06 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:43:37.1747 INFO Requested Get Movie API ! Movie Name : movie2 Rate : 
+2023-09-20 10:43:39.1415 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=movie2
+2023-09-20 10:43:39.1580 TRACE Request Headers:
+
+2023-09-20 10:43:39.1580 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=movie2
+2023-09-20 10:43:39.1580 TRACE Request Headers:
+
+2023-09-20 10:43:39.5661 INFO Received HTTP response headers after 401.6615ms - 200
+2023-09-20 10:43:39.5661 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:13:37 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:43:39.5661 INFO End processing HTTP request after 424.38ms - 200
+2023-09-20 10:43:39.5661 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:13:37 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:44:33.3038 INFO Requested Get Movie API ! Movie Name : movie2 Rate : 
+2023-09-20 10:44:35.2670 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=movie2
+2023-09-20 10:44:35.2670 TRACE Request Headers:
+
+2023-09-20 10:44:35.2824 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=movie2
+2023-09-20 10:44:35.2824 TRACE Request Headers:
+
+2023-09-20 10:44:35.6717 INFO Received HTTP response headers after 385.2262ms - 200
+2023-09-20 10:44:35.6717 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 07:14:34 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:44:35.6717 INFO End processing HTTP request after 406.6964ms - 200
+2023-09-20 10:44:35.6717 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 07:14:34 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:48:47.2498 INFO Requested Get Movie API ! Movie Name : movie2 Rate : 
+2023-09-20 10:48:49.1727 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=movie2
+2023-09-20 10:48:49.1883 TRACE Request Headers:
+
+2023-09-20 10:48:49.1883 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=movie2
+2023-09-20 10:48:49.1883 TRACE Request Headers:
+
+2023-09-20 10:48:49.5419 INFO Received HTTP response headers after 346.9521ms - 200
+2023-09-20 10:48:49.5419 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:18:47 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:48:49.5500 INFO End processing HTTP request after 367.1491ms - 200
+2023-09-20 10:48:49.5500 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:18:47 GMT
+Content-Type: application/json
+Content-Length: 88
+
+2023-09-20 10:50:14.7818 INFO Requested Get Movie API ! Movie Name : movie2 Rate : 
+2023-09-20 10:50:26.9881 INFO Requested Get Movie API ! Movie Name : batman Rate : 
+2023-09-20 10:50:43.8110 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:50:43.8131 TRACE Request Headers:
+
+2023-09-20 10:50:43.8131 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:50:43.8131 TRACE Request Headers:
+
+2023-09-20 10:50:44.1783 INFO Received HTTP response headers after 359.6456ms - 200
+2023-09-20 10:50:44.1783 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:20:42 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:50:44.1783 INFO End processing HTTP request after 379.1071ms - 200
+2023-09-20 10:50:44.1783 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:20:42 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:51:04.6588 INFO Requested Get Movie API ! Movie Name : batman Rate : 
+2023-09-20 10:51:06.5347 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:51:06.5347 TRACE Request Headers:
+
+2023-09-20 10:51:06.5347 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:51:06.5347 TRACE Request Headers:
+
+2023-09-20 10:51:06.9000 INFO Received HTTP response headers after 352.0042ms - 200
+2023-09-20 10:51:06.9000 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 07:21:05 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:51:06.9090 INFO End processing HTTP request after 372.0309ms - 200
+2023-09-20 10:51:06.9090 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 07:21:05 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:53:10.1095 INFO Requested Get Movie API ! Movie Name : batman Rate : 
+2023-09-20 10:53:12.0943 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:53:12.0943 TRACE Request Headers:
+
+2023-09-20 10:53:12.0943 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:53:12.0943 TRACE Request Headers:
+
+2023-09-20 10:53:12.5357 INFO Received HTTP response headers after 426.9882ms - 200
+2023-09-20 10:53:12.5357 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:23:10 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:53:12.5357 INFO End processing HTTP request after 448.3353ms - 200
+2023-09-20 10:53:12.5357 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:23:10 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:55:42.6741 INFO Requested Get Movie API ! Movie Name : batman Rate : 
+2023-09-20 10:55:44.6727 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:55:44.6883 TRACE Request Headers:
+
+2023-09-20 10:55:44.6883 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:55:44.6883 TRACE Request Headers:
+
+2023-09-20 10:55:45.0547 INFO Received HTTP response headers after 359.7539ms - 200
+2023-09-20 10:55:45.0547 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:25:43 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:55:45.0629 INFO End processing HTTP request after 380.8976ms - 200
+2023-09-20 10:55:45.0629 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:25:43 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:55:45.1095 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:55:45.1095 TRACE Request Headers:
+
+2023-09-20 10:55:45.1095 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 10:55:45.1095 TRACE Request Headers:
+
+2023-09-20 10:55:45.3125 INFO Received HTTP response headers after 191.9072ms - 200
+2023-09-20 10:55:45.3137 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 07:25:43 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:55:45.3137 INFO End processing HTTP request after 200.1903ms - 200
+2023-09-20 10:55:45.3137 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 07:25:43 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 10:56:06.3409 INFO Requested Get Movie API ! Movie Name : The Godfather Rate : 
+2023-09-20 10:56:06.3758 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Godfather
+2023-09-20 10:56:06.3758 TRACE Request Headers:
+
+2023-09-20 10:56:06.3758 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Godfather
+2023-09-20 10:56:06.3758 TRACE Request Headers:
+
+2023-09-20 10:56:06.6385 INFO Received HTTP response headers after 259.6231ms - 200
+2023-09-20 10:56:06.6385 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 197
+Date: Wed, 20 Sep 2023 07:26:05 GMT
+Content-Type: application/json
+Content-Length: 826
+
+2023-09-20 10:56:06.6444 INFO End processing HTTP request after 267.7193ms - 200
+2023-09-20 10:56:06.6444 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 197
+Date: Wed, 20 Sep 2023 07:26:05 GMT
+Content-Type: application/json
+Content-Length: 826
+
+2023-09-20 10:56:36.0731 INFO Requested Get Movie API ! Movie Name : The Shawshank Redemption Rate : 
+2023-09-20 10:56:36.1412 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Shawshank Redemption
+2023-09-20 10:56:36.1412 TRACE Request Headers:
+
+2023-09-20 10:56:36.1412 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Shawshank Redemption
+2023-09-20 10:56:36.1412 TRACE Request Headers:
+
+2023-09-20 10:56:36.3653 INFO Received HTTP response headers after 215.1315ms - 200
+2023-09-20 10:56:36.3653 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 195
+Date: Wed, 20 Sep 2023 07:26:34 GMT
+Content-Type: application/json
+Content-Length: 463
+
+2023-09-20 10:56:36.3653 INFO End processing HTTP request after 224.6338ms - 200
+2023-09-20 10:56:36.3653 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 195
+Date: Wed, 20 Sep 2023 07:26:34 GMT
+Content-Type: application/json
+Content-Length: 463
+
+2023-09-20 11:02:24.4577 INFO Requested Get Movie API ! Movie Name : batman Rate : 
+2023-09-20 11:02:26.3451 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 11:02:26.3625 TRACE Request Headers:
+
+2023-09-20 11:02:26.3625 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=batman
+2023-09-20 11:02:26.3625 TRACE Request Headers:
+
+2023-09-20 11:02:26.7572 INFO Received HTTP response headers after 389.6423ms - 200
+2023-09-20 11:02:26.7572 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:32:25 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 11:02:26.7572 INFO End processing HTTP request after 409.2143ms - 200
+2023-09-20 11:02:26.7572 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:32:25 GMT
+Content-Type: application/json
+Content-Length: 1137
+
+2023-09-20 11:07:11.5589 INFO Requested Get Movie API ! Movie Name : The Dark Knight Rate : 
+2023-09-20 11:07:13.4421 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:07:13.4421 TRACE Request Headers:
+
+2023-09-20 11:07:13.4421 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:07:13.4421 TRACE Request Headers:
+
+2023-09-20 11:07:13.8258 INFO Received HTTP response headers after 372.2409ms - 200
+2023-09-20 11:07:13.8302 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:37:12 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:07:13.8302 INFO End processing HTTP request after 399.0593ms - 200
+2023-09-20 11:07:13.8302 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:37:12 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:10:41.6973 INFO Requested Get Movie API ! Movie Name : The Dark Knight Rate : 
+2023-09-20 11:10:43.6760 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:10:43.6760 TRACE Request Headers:
+
+2023-09-20 11:10:43.6760 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:10:43.6760 TRACE Request Headers:
+
+2023-09-20 11:10:44.0536 INFO Received HTTP response headers after 367.4561ms - 200
+2023-09-20 11:10:44.0536 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:40:42 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:10:44.0665 INFO End processing HTTP request after 393.511ms - 200
+2023-09-20 11:10:44.0665 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:40:42 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:13:15.8703 INFO Requested Get Movie API ! Movie Name : The Dark Knight Rate : 
+2023-09-20 11:13:17.8155 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:13:17.8155 TRACE Request Headers:
+
+2023-09-20 11:13:17.8155 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:13:17.8155 TRACE Request Headers:
+
+2023-09-20 11:13:18.2155 INFO Received HTTP response headers after 385.8549ms - 200
+2023-09-20 11:13:18.2190 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:43:16 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:13:18.2190 INFO End processing HTTP request after 406.7597ms - 200
+2023-09-20 11:13:18.2190 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:43:16 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:19:17.5797 INFO Requested Get Movie API ! Movie Name : The Dark Knight Rate : 
+2023-09-20 11:19:19.5191 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:19:19.5191 TRACE Request Headers:
+
+2023-09-20 11:19:19.5334 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=The Dark Knight
+2023-09-20 11:19:19.5334 TRACE Request Headers:
+
+2023-09-20 11:19:20.0940 INFO Received HTTP response headers after 555.4436ms - 200
+2023-09-20 11:19:20.0979 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:49:18 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:19:20.0979 INFO End processing HTTP request after 582.5989ms - 200
+2023-09-20 11:19:20.0979 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 07:49:18 GMT
+Content-Type: application/json
+Content-Length: 849
+
+2023-09-20 11:30:08.7608 INFO Requested Get Movie API ! Movie Name : 12 angry men Rate : 
+2023-09-20 11:30:08.8176 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=12 angry men
+2023-09-20 11:30:08.8176 TRACE Request Headers:
+
+2023-09-20 11:30:08.8176 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=12 angry men
+2023-09-20 11:30:08.8176 TRACE Request Headers:
+
+2023-09-20 11:30:09.0745 INFO Received HTTP response headers after 248.796ms - 200
+2023-09-20 11:30:09.0745 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 08:00:07 GMT
+Content-Type: application/json
+Content-Length: 951
+
+2023-09-20 11:30:09.0869 INFO End processing HTTP request after 264.7885ms - 200
+2023-09-20 11:30:09.0869 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+Date: Wed, 20 Sep 2023 08:00:07 GMT
+Content-Type: application/json
+Content-Length: 951
+
+2023-09-20 11:30:09.0971 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=12 angry men
+2023-09-20 11:30:09.0971 TRACE Request Headers:
+
+2023-09-20 11:30:09.0971 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=12 angry men
+2023-09-20 11:30:09.0971 TRACE Request Headers:
+
+2023-09-20 11:30:09.3370 INFO Received HTTP response headers after 225.2147ms - 200
+2023-09-20 11:30:09.3370 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 08:00:07 GMT
+Content-Type: application/json
+Content-Length: 951
+
+2023-09-20 11:30:09.3456 INFO End processing HTTP request after 239.322ms - 200
+2023-09-20 11:30:09.3456 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 198
+Date: Wed, 20 Sep 2023 08:00:07 GMT
+Content-Type: application/json
+Content-Length: 951
+
+2023-09-20 11:30:39.5937 INFO Requested Get Movie API ! Movie Name : 12 Angry Men Rate : 
+2023-09-20 11:30:39.6584 INFO Start processing HTTP request GET https://moviesapi.ir/api/v1/movies?q=12 Angry Men
+2023-09-20 11:30:39.6584 TRACE Request Headers:
+
+2023-09-20 11:30:39.6584 INFO Sending HTTP request GET https://moviesapi.ir/api/v1/movies?q=12 Angry Men
+2023-09-20 11:30:39.6584 TRACE Request Headers:
+
+2023-09-20 11:30:39.8889 INFO Received HTTP response headers after 222.8336ms - 200
+2023-09-20 11:30:39.8912 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 196
+Date: Wed, 20 Sep 2023 08:00:38 GMT
+Content-Type: application/json
+Content-Length: 951
+
+2023-09-20 11:30:39.8912 INFO End processing HTTP request after 237.9118ms - 200
+2023-09-20 11:30:39.8912 TRACE Response Headers:
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, X-Token-Auth, Authorization
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 196
+Date: Wed, 20 Sep 2023 08:00:38 GMT
+Content-Type: application/json
+Content-Length: 951
+

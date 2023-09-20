@@ -1,4 +1,5 @@
 ﻿using CodeFirst2.Models;
+using CodeFirst2.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,70 +10,39 @@ namespace CodeFirst2.Controllers
     public class GenresController : ControllerBase
     {
         private readonly ApplicationDbContext dbContext;
+        private readonly IGenreControllerRepo _genreControllerRepo;
+        private static ILogger<GenresController> _logger;
 
-        public GenresController(ApplicationDbContext databaseContext)
+        public GenresController(ApplicationDbContext databaseContext, IGenreControllerRepo genreControllerRepo, ILogger<GenresController> logger)
         {
             dbContext = databaseContext;
+            _genreControllerRepo = genreControllerRepo;
+            _logger = logger;
         }
 
         [HttpGet()]
         public ActionResult GetGenres()
         {
-            //if (Genre.Genres == null)
-            //{
-            //    return BadRequest();
-            //}
-            //return Ok(Genre.Genres);
-            if (dbContext.Genres == null)
+            _logger.LogInformation("Requested Getting Genres !");
+            if (_genreControllerRepo.GetGenres() == null)
             {
-                return BadRequest();
+                _logger.LogWarning("No Genres Found !");
+                return BadRequest("No Genres!!!");
             }
-            return Ok(dbContext.Genres);
+            _logger.LogInformation("Genres have been returned !");
+            return Ok(_genreControllerRepo.GetGenres());
         }
         [HttpGet("{genreId}/movies")]
         public ActionResult GetMoviesByGenre(int genreId)
         {
-            //List<Movie> selectedMovies = new List<Movie>();
-            //foreach (var movie in Movie.movieList)
-            //{
-            //    foreach (var genre in movie.Genres)
-            //    {
-            //        if (genre.Id == genreId)
-            //        {
-            //            selectedMovies.Add(movie);
-            //        }
-            //    }
-            //}
-            //if (selectedMovies.Count == 0)
-            //{
-            //    return BadRequest();
-            //}
-            //return Ok(selectedMovies);
-
-            var selectedMovies = dbContext.MovieGenres.Where(i => i.GenreId == genreId).ToList();
-            if (selectedMovies.Count == 0)
-            {
-                return BadRequest();
-            }
-            return Ok(selectedMovies);
+            _logger.LogInformation("Movies with genreId {id} have been requested!",genreId);
+            return Ok(_genreControllerRepo.GetMoviesByGenre(genreId));
         }
         [HttpPost()]
         public ActionResult PostGenre([FromBody] Genre newGenre)
         {
-            if (newGenre == null)
-            {
-                return BadRequest();
-            }
-            Console.WriteLine(newGenre.Name);
-            if (dbContext.Genres.Where(i => i.Name == newGenre.Name).ToList().Count() == 0)
-            {
-                dbContext.Add(newGenre);
-                dbContext.SaveChanges();
-                return Ok();
-            }
-
-
-            return BadRequest();
+            _logger.LogInformation("Requested to post genre with name {name}", newGenre.Name);
+            return Ok(_genreControllerRepo.AddGenre(newGenre));
         }
     }
 }

@@ -20,12 +20,10 @@ namespace CodeFirst2.Models
         {
 
         }
-        public MovieGenres(int movieId, int genreId, Movie movie, Genre genre)
+        public MovieGenres(int movieId, int genreId)
         {
             MovieId = movieId;
-            Movie = movie;
             GenreId = genreId;
-            Genre = genre;
         }
     }
 

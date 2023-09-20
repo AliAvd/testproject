@@ -18,24 +18,14 @@ namespace CodeFirst2.Models
 
         }
 
-        public Movie(string name, int year)
+        public Movie(string name, int year, string ratee)
         {
             Name = name;
             Year = year;
-
-            Random random = new Random();
-            double minValue = 0.0;
-            double maxValue = 5.0;
-
-            rate = random.NextDouble() * (maxValue - minValue) + minValue;
+            rate = double.Parse(ratee);
 
         }
 
-        public static List<Movie> movieList = new List<Movie>
-        {
-            new Movie("Hello1",1987),
-            new Movie("Hello2",2002),
-            new Movie("Hello3",2013)
-        };
+        
     }
 }
